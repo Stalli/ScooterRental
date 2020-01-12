@@ -1,0 +1,11 @@
+D:\Projects\ScooterRental2\BusinessLogic\bin\Debug\netcoreapp3.0\BusinessLogic.deps.json
+D:\Projects\ScooterRental2\BusinessLogic\bin\Debug\netcoreapp3.0\BusinessLogic.dll
+D:\Projects\ScooterRental2\BusinessLogic\bin\Debug\netcoreapp3.0\BusinessLogic.pdb
+D:\Projects\ScooterRental2\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.csprojAssemblyReference.cache
+D:\Projects\ScooterRental2\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\ScooterRental2\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.AssemblyInfo.cs
+D:\Projects\ScooterRental2\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.dll
+D:\Projects\ScooterRental2\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.pdb
+D:\Projects\ScooterRental2\BusinessLogic\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\ScooterRental2\BusinessLogic\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Projects\ScooterRental2\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.csproj.CopyComplete

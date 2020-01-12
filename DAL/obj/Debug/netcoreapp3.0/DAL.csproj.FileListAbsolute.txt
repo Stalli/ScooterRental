@@ -1,0 +1,8 @@
+D:\Projects\ScooterRental2\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+D:\Projects\ScooterRental2\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\ScooterRental2\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\Projects\ScooterRental2\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\Projects\ScooterRental2\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\ScooterRental2\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Projects\ScooterRental2\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\Projects\ScooterRental2\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
